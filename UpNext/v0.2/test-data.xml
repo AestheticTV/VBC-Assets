@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<templateData>
+	<componentData id="table">
+		<line id="line_1" time="10:00 PM" text="Line 1 text" />
+		<line id="line_2" time="10:30 PM" text="Line 2 text" />
+		<line id="line_3" time="11:00 PM" text="Line 3 text" />
+		<line id="line_4" time="11:30 PM" text="Line 4 text" />
+		<line id="line_5" time="12:00 AM" text="Line 5 text" />
+		<line id="line_6" time="12:30 AM" text="Line 6 text" />
+	</componentData>
+	<componentData id="ticker">
+		<line text="Line 1" />
+		<line text="Line 2" />
+		<line text="Line 3" />
+	</componentData>
+</templateData>
